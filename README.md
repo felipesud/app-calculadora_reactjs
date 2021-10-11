@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Re-criação do repositório
+
+Esse Repositório foi re-criado a partir da pasta calculadora do [repositório app-calculadora](https://github.com/FelipeSud/app-calculadora/tree/master/calculadora). 
+
+Lá pode-se ver todos os commits realizados.
+
 ## Available Scripts
 
 In the project directory, you can run:
